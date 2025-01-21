@@ -1,3 +1,11 @@
+# This module is forked from:
+
+https://github.com/happybits/terraform-aws-rds
+
+https://github.com/terraform-aws-modules/terraform-aws-rds
+
+It's wildly popular for RDS & it's license is: Apache License
+
 # AWS RDS Terraform module
 
 Terraform module which creates RDS resources on AWS.
